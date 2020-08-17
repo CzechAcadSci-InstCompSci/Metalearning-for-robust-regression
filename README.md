@@ -32,4 +32,4 @@ Kalina J, Vidnerová P (2020): A metalearning study for robust nonlinear regress
 
 ## Acknowledgement
 
-This work was supported by the Czech Science Foundation grant GA19-05704S.
+This work was supported by the Czech Science Foundation grants GA19-05704S and GA18-23827S.
