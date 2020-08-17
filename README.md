@@ -17,6 +17,7 @@ validation) is implemented in Autovalidation.R.
 
 ## Authors
   * Jan Kalina, The Czech Academy of Sciences, Institute of Computer Science
+  * Petra Vidnerová, The Czech Academy of Sciences, Institute of Computer Science
   * Barbora Peštová, The Czech Academy of Sciences, Institute of Computer Science
 
 ## Contact
@@ -27,8 +28,7 @@ Do not hesitate to contact us (kalina@cs.cas.cz) or write an Issue.
 
 Please consider citing the following:
 
-Kalina J, Tichavský J (2019): Statistical learning for recommending (robust) nonlinear regression methods. Journal of Applied Mathematics, Statistics
-and Informatics 15 (2), 47-59.
+Kalina J, Vidnerová P (2020): A metalearning study for robust nonlinear regression. Proceedings of the 21st EANN (Engineering Applications of Neural Networks) 2020 Conference, Springer, Cham, pp. 499-510.
 
 ## Acknowledgement
 
